@@ -1,0 +1,3 @@
+markitdown
+flask
+gunicorn
